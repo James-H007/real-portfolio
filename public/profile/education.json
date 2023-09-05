@@ -1,19 +1,37 @@
 {
-    "education":[
+    "education": [
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
-            "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+            "title": "Aug 2022 - Present",
+            "cardTitle": "Computer Science",
+            "cardSubtitle": "Cosumnes River College, Sacramento",
+            "cardDetailedText": "Cumulative GPA - 3.7",
+            "icon": {
+                "src": "images/education/CRC.png"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "Jun 2020 - Jun 2022",
+            "cardTitle": "B.S Biological Sciences, Communications",
+            "cardSubtitle": "University of California, Davis",
+            "cardDetailedText": "Cumulative GPA - 3.7",
+            "icon": {
+                "src": "images/education/davis.png"
+            }
+        },
+        {
+            "title": "Jun 2018 - May 2020",
+            "cardTitle": "Biological Sciences",
+            "cardSubtitle": "Cosumnes River College, Sacramento",
+            "cardDetailedText": "Cumulative GPA - 3.65",
+            "icon": {
+                "src": "images/education/CRC.png"
+            }
+        },
+        {
+            "title": "May 2018",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle": "Pleasant Grove High School, Elk Grove",
+            "cardDetailedText": "GPA 3.8"
         }
     ]
 }
