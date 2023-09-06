@@ -49,17 +49,17 @@ const Projects = (props) => {
 
               {!showMore
                 && (
-                <Button
-                  style={styles.showMoreStyle}
-                  variant={theme.bsSecondaryVariant}
-                  onClick={() => setShowMore(true)}
-                >
-                  show more
-                </Button>
+                  <Button
+                    style={styles.showMoreStyle}
+                    variant={theme.bsSecondaryVariant}
+                    onClick={() => setShowMore(true)}
+                  >
+                    TBA
+                  </Button>
                 )}
             </Container>
           </div>
-        ) : <FallbackSpinner /> }
+        ) : <FallbackSpinner />}
     </>
   );
 };

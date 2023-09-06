@@ -1,33 +1,58 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Computer Science Tutor",
+            "subtitle": "Private",
+            "workType": "Part-Time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Aided private customers in programming with languages such as JavaScript and Python",
+                "Taught basic fundamentals such as variable types, array methods, and classes",
+                "Gave aid to homework"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "08/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
+            "title": "Full-Stack Engineer",
+            "subtitle": "Self-Employed",
             "workType": "Freelance",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Creating full-stack applications for clients",
+                "Hooked applications to domains for clients"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "01/2023 – Present"
+        },
+        {
+            "title": "Hospital Guide",
+            "subtitle": "Methodist Hospital",
+            "workType": "Volunteer",
+            "workDescription": [
+                "Responsibilities included guiding patients to their destinations safely within the hospital grounds.",
+                "Provided wheel chair assistance to patients who are unable to walk."
+            ],
+            "dateText": "12/2019 – 03/2020"
+        },
+        {
+            "title": "Youth Aid",
+            "subtitle": "California Department of Veterans Affair",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Assist accounts payable staff with keying and filing completed vouchers.",
+                "Assist in identifying the receiving items in the Financial Information System for California (FI$Cal) and provide related information to staff.",
+                "Date stamp, sort, and distribute incoming mail.",
+                "Assist with keying and storing Payee Data Record (STD 204) information into Fi$Cal. Copy, scan, and match documents.",
+                "Assist with archiving materials to the warehouse."
+            ],
+            "dateText": "06/2019 – 12/2019"
+        },
+        {
+            "title": "Mathematics Tutor",
+            "subtitle": "Cosumnes River College",
+            "workType": "Part-Time",
+            "workDescription": [
+                "Assisted students in mathematical concepts all the way up to Calculus 2. ",
+                "Provided practical guidance and a positive learning experience to clients. "
+            ],
+            "dateText": "01/2019 – 05/2019"
         }
     ]
 }
